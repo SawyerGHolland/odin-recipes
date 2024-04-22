@@ -1,1 +1,2 @@
 # odin-recipes
+This project is about creating recepies in Git. They will end up on github. Using VS Code, writing in HTML, and the terminal when needed. Adding links, headings, paragraphs, lists, and pictures will be completed. 
